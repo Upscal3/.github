@@ -23,9 +23,9 @@ Meet the talented individuals behind UPSCAL3:
 
 Aaron leads our back-end development, bringing robust functionalities and technical expertise to every project.
 
-### Yunus Adebayo - Front End
+### TBC - Front End
 
-Yunus specializes in front-end development, creating visually appealing interfaces and user-centric experiences.
+N/A
 
 ### Leo Connor - Marketing Director
 
